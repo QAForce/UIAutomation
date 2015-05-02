@@ -1,5 +1,5 @@
 # UIAutomation
-A UI automation tool which is built in command-based architecture on windows console platform
+A web UI automation tool which is built in command-based architecture on windows console platform
 
 Why I built this tool!?
 In my department, the backgroud of our QA members are almost lack of coding ability.
