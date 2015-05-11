@@ -1,0 +1,9 @@
+﻿<SQLs>
+  <!--ID comes from user difine, Database value comes from config setting-->
+  <SQL Type="SQLExecuteDataTable" ID="sqlGetTime" Database="TestDB" Output="${data}">
+    <Expression>
+      SELECT TOP 1 CONVERT(VARCHAR(20),GETDATE(),112) AS TimeString
+    </Expression>
+  </SQL>
+
+</SQLs>

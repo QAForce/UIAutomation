@@ -1,0 +1,7 @@
+﻿<VirtualCommands>
+  <VirtualCommand ID="vcSearchGoogle" SearchWord="">
+    <Command Type="OpenURL" Target="http://www.google.com/" />
+    <Command Type="TypeText" Target="name=q" Value="${SearchWord}" />
+    <Command Type="Click" Target="xpath=//*[@id='tsf']/div[2]/div[3]/center/input[1]" />
+  </VirtualCommand>
+</VirtualCommands>

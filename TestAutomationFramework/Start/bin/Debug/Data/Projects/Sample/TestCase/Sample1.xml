@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TestCases>
+  <TestCase ID="SMP001"  Tag="Query" Description="Simple command operation">
+    <Command Type="OpenURL"  Target="http://www.google.com/" />
+    <Command Type="TypeText" Target="name=q" Value="UI Automation" />
+    <Command Type="Click" Target="xpath=//*[@id='tsf']/div[2]/div[3]/center/input[1]" />
+  </TestCase>
+  <TestCase ID="SMP002"  Tag="Query" Description="use virtual command">
+    <Command Type="vcSearchGoogle" SearchWord="UI Automation" />
+  </TestCase>
+  <TestCase ID="SMP003"  Tag="Query" Description="use global parameter">
+    <Command Type="OpenURL"  Target="${GoogleURL}" />
+    <Command Type="TypeText" Target="name=q" Value="${SearchWord}" />
+    <Command Type="Click" Target="xpath=//*[@id='tsf']/div[2]/div[3]/center/input[1]" />
+  </TestCase>
+</TestCases>

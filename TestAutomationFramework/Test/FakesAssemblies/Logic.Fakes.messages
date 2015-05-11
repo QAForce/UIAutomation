@@ -1,0 +1,29 @@
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate stub for Logic.ConsoleReportPrint: type is sealed.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate stub for Logic.Helper: type is sealed.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate stub for Logic.ELogType: type is a value type.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate stub for DEVMODE1: type is a value type.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate stub for User_32: type is not visible to exported or assembly(Logic.Fakes).
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate stub for Resolution.CResolution: type is not visible to exported or assembly(Logic.Fakes).
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.Commands.Command+<>c__DisplayClass8: type is not supported because of internal limitations.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.Commands.Command+<>c__DisplayClassa: type is not supported because of internal limitations.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.Commands.CommandFactory+<>c__DisplayClass22: type is not supported because of internal limitations.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.Commands.CommandFactory+<>c__DisplayClass4f: type is not supported because of internal limitations.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.Commands.CommandFactory+<>c__DisplayClass51: type is not supported because of internal limitations.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.Commands.CommandFactory+<>c__DisplayClass7f: type is not supported because of internal limitations.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.Commands.CommandFactory+<>c__DisplayClass9a: type is not supported because of internal limitations.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.Commands.CommandFactory+<>c__DisplayClassc1: type is not supported because of internal limitations.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.Commands.CommandFactory+<>c__DisplayClassc7: type is not supported because of internal limitations.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.Commands.CommandFactory+<>c__DisplayClassce: type is not supported because of internal limitations.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.Commands.CommandFactory+<>c__DisplayClassd3: type is not supported because of internal limitations.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.Commands.CommandFactory+<>c__DisplayClassd8: type is not supported because of internal limitations.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.Commands.SQLExecute+<>c__DisplayClass7: type is not supported because of internal limitations.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.Commands.VerifyVisible+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.Helper+<>c__DisplayClass15: type is not supported because of internal limitations.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.Helper+<>c__DisplayClass2: type is not supported because of internal limitations.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.Helper+<>c__DisplayClass25: type is not supported because of internal limitations.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.Helper+<>c__DisplayClass8: type is not supported because of internal limitations.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Utilities.IniFile+NativeMethods: type is not visible to exported or assembly(Logic.Fakes).
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.ELogType: type is an enum.
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for User_32: type is not visible to exported or assembly(Logic.Fakes).
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Resolution.CResolution: type is not visible to exported or assembly(Logic.Fakes).
+D:\PersonalCode\TestAutomationFramework\Test\Fakes\Logic.fakes : warning : Cannot generate shim for Logic.TestContainer+<>c__DisplayClass4: type is not supported because of internal limitations.

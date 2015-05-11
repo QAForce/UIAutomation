@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Restfuls>
+  <Restful ID="restQueryCustomer" Method="GET" Host ="${RestfulApiURL}" Value1 =""  Output="${data}" >
+    <Header>
+      {
+      "Header1":"value1",
+      "Header2":"value2",
+      "Header3":"value3",
+      }
+    </Header>
+    <Body>
+      {
+      "Field1":${Value1},
+      "Field2":"Value2",
+      "Field3":"Value3",
+      }
+    </Body>
+  </Restful>
+</Restfuls>
