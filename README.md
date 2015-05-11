@@ -24,6 +24,8 @@ The feature of this tool:
 3. Support IE/Firfox/Chrome now (It is easy to involve other brwosers)
 4. Use the concept of command/virtual command to combine an UI behavior scenario by user want.
 
+For more information, please refer to follow link:
+https://drive.google.com/open?id=0B9pD4RZMMBV4fkt0V0FaQmVNQU5ZbGVjS1FiTk5Hb25ORjJkWU5vM2UxTW4tMzFfZFc2cmc&authuser=0
 
 
 
