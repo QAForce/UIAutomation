@@ -101,3 +101,6 @@ D:\PersonalCode\TestAutomationFramework\Start\bin\Debug\WebDriver.Support.xml
 D:\PersonalCode\TestAutomationFramework\Start\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
 D:\PersonalCode\TestAutomationFramework\Start\bin\Debug\log4net.xml
 D:\PersonalCode\TestAutomationFramework\Start\obj\Debug\Start.csprojResolveAssemblyReference.cache
+D:\GitHub\UIAutomation\TestAutomationFramework\Start\bin\Debug\AutoTest.exe.config
+D:\GitHub\UIAutomation\TestAutomationFramework\Start\obj\Debug\AutoTest.exe
+D:\GitHub\UIAutomation\TestAutomationFramework\Start\obj\Debug\AutoTest.pdb
