@@ -2,7 +2,7 @@
 An web UI automation tool which is built in selenium webdriver with command-based architecture on windows console platform
 
 Why I built this tool!?<br />  
-=============================
+-----------------------
 In my department, the backgroud of our QA members are almost lack of coding ability.
 So most of testing works are based on human manually testing, expecially in the web test.
 However, here are the problems,
@@ -19,7 +19,7 @@ So...all in all, this tool want to archieve these goals:
 4. Low loading on maintainence.
 
 The features of this tool:
-=========================
+--------------------------
 1. All XML-Based file management<br />  
 2. Support MS SQL DB operation, Javascript, and Restful API<br />  
 3. Support IE/Firfox/Chrome now (It is easy to involve other brwosers)<br />  
