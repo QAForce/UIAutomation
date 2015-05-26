@@ -2,8 +2,8 @@
 An web UI automation tool which is built in selenium webdriver with command-based architecture on windows console platform
 
 >Why I built this tool!?
->In my department, the backgroud of our QA members are almost lack of coding ability.
->So most of testing works are based on human manually testing, expecially in the web test.
+>>In my department, the backgroud of our QA members are almost lack of coding ability.
+>>So most of testing works are based on human manually testing, expecially in the web test.
 However, here are the problems,
 Our projects have many requirements and the schedule is always tight. In this situation, the web test alwasy needs a lot of human and time resource to keep quality beacuse the functions are complex.
 It's fine to create automation test of API, because the change frequency of API is not so high like the web and we just
