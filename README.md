@@ -18,7 +18,7 @@ So...all in all, this tool want to archieve these goals:
 3. High flexibility for furture extend. (It's all XML file-based)
 4. Low loading on maintainence.
 
-The feature of this tool:
+The features of this tool:
 =========================
 1. All XML-Based file management<br />  
 2. Support MS SQL DB operation, Javascript, and Restful API<br />  
