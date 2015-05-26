@@ -12,11 +12,11 @@ need to find some one (one or two maybe...) coding on that due to the specificat
     This is not work on web test, the user behavior is complex and the automation code need to be fixed once there is a simple web UI/function changed.
     If you had exprience on web test, I think you should know what I am takling about...
 
-So...all in all, this tool want to archieve these goals:
-1. Easy to use for anyone who is lack of coding ability. The creation of UI automation test won't need to touch coding.
-2. Create an automation test scenario should be very quickly.
-3. High flexibility for furture extend. (It's all XML file-based)
-4. Low loading on maintainence.
+So...all in all, this tool want to archieve these goals:<br />  
+1. Easy to use for anyone who is lack of coding ability. The creation of UI automation test won't need to touch coding.<br />  
+2. Create an automation test scenario should be very quickly.<br />  
+3. High flexibility for furture extend. (It's all XML file-based)<br />  
+4. Low loading on maintainence.<br />  
 
 The features of this tool:
 --------------------------
